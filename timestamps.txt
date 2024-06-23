@@ -1,0 +1,152 @@
+[
+    {
+        "start": 0.0,
+        "end": 0.7,
+        "word": "My"
+    },
+    {
+        "start": 0.7,
+        "end": 1.3,
+        "word": "thought"
+    },
+    {
+        "start": 1.3,
+        "end": 1.8,
+        "word": "I"
+    },
+    {
+        "start": 1.8,
+        "end": 2.3,
+        "word": "have"
+    },
+    {
+        "start": 2.3,
+        "end": 3.1,
+        "word": "nobody"
+    },
+    {
+        "start": 3.1,
+        "end": 3.6,
+        "word": "by"
+    },
+    {
+        "start": 3.6,
+        "end": 4.3,
+        "word": "a"
+    },
+    {
+        "start": 4.3,
+        "end": 4.9,
+        "word": "beauty"
+    },
+    {
+        "start": 4.9,
+        "end": 5.7,
+        "word": "and"
+    },
+    {
+        "start": 5.7,
+        "end": 6.3,
+        "word": "will"
+    },
+    {
+        "start": 6.3,
+        "end": 6.9,
+        "word": "as"
+    },
+    {
+        "start": 6.9,
+        "end": 7.4,
+        "word": "you've"
+    },
+    {
+        "start": 7.4,
+        "end": 8.0,
+        "word": "poured"
+    },
+    {
+        "start": 8.0,
+        "end": 8.7,
+        "word": "Mister"
+    },
+    {
+        "start": 8.7,
+        "end": 9.4,
+        "word": "Rochester's"
+    },
+    {
+        "start": 9.4,
+        "end": 9.9,
+        "word": "sub"
+    },
+    {
+        "start": 9.9,
+        "end": 10.5,
+        "word": "and"
+    },
+    {
+        "start": 10.5,
+        "end": 11.1,
+        "word": "that"
+    },
+    {
+        "start": 11.1,
+        "end": 11.6,
+        "word": "so"
+    },
+    {
+        "start": 11.6,
+        "end": 12.2,
+        "word": "don't"
+    },
+    {
+        "start": 12.2,
+        "end": 12.8,
+        "word": "find"
+    },
+    {
+        "start": 12.8,
+        "end": 13.5,
+        "word": "simpus"
+    },
+    {
+        "start": 13.5,
+        "end": 14.1,
+        "word": "and"
+    },
+    {
+        "start": 14.1,
+        "end": 14.7,
+        "word": "devoted"
+    },
+    {
+        "start": 14.7,
+        "end": 15.4,
+        "word": "to"
+    },
+    {
+        "start": 15.4,
+        "end": 15.9,
+        "word": "boughs"
+    },
+    {
+        "start": 15.9,
+        "end": 16.5,
+        "word": "at"
+    },
+    {
+        "start": 16.5,
+        "end": 17.1,
+        "word": "might"
+    },
+    {
+        "start": 17.1,
+        "end": 17.6,
+        "word": "in"
+    },
+    {
+        "start": 17.6,
+        "end": 18.2,
+        "word": "a"
+    }
+]
